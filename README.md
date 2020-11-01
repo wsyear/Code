@@ -28,4 +28,4 @@ $ \sqrt{(\Delta x)^2+(\Delta y)^2} $
 
 ### Other
 
-Welcome to go to my friend @wdssean 's [blog](wdssean.github.com) !
+Welcome to go to my friend @wdssean 's [blog](http://wdssean.github.com) !
