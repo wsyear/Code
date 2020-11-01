@@ -20,10 +20,6 @@ What do we do in this class?
 
 We will learn some Markdown,you will know how to make this:
 
-$ C_{a_n^k}^{b_n} $
-
-$ \sqrt{(\Delta x)^2+(\Delta y)^2} $
-
 `Markdown!So great!`
 
 ### Other
